@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+title: >-
+  NEC Organoid Transcriptomics: Temporal Gene Expression
+  Dynamics of Necrotizing Enterocolitis in Human Intestinal
+  Organoid Model
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mona
+    family-names: Ellaithi
+    affiliation: >-
+      Faculty of Medical Laboratory Sciences, Al-Neelain
+      University, Khartoum, Sudan
+  - given-names: BalaSubramani
+    family-names: Gattu Linga
+    affiliation: >-
+      Department of Research, Women's Wellness and Research
+      Center, Hamad Medical Corporation, Doha, Qatar
+  - given-names: Waleed
+    family-names: Aamer
+    affiliation: >-
+      Department of Human Genetics, Sidra Medicine, Doha,
+      Qatar
+  - given-names: Faisal E.
+    family-names: Ibrahim
+    affiliation: >-
+      Department of Research, Women's Wellness and Research
+      Center, Hamad Medical Corporation, Doha, Qatar
+  - given-names: Jameela
+    family-names: Roshanuddin
+    affiliation: >-
+      Qatar Preterm and Precision Medicine Research Clinic,
+      Women's Wellness and Research Center, Hamad Medical
+      Corporation, Doha, Qatar
+  - given-names: Rand
+    family-names: Hamdan
+    affiliation: >-
+      Health Profession Awareness Program, Health Facilities
+      Development, Hamad Medical Corporation, Doha, Qatar
+  - given-names: Nader
+    family-names: Al-Dewik
+    email: naldewik@hamad.qa
+    affiliation: >-
+      Translational and Precision Medicine Research Facility,
+      Women's Wellness and Research Center, Hamad Medical
+      Corporation, Doha, Qatar
+    orcid: ""
+identifiers:
+  - type: other
+    value: GSE226086
+    description: GEO accession number for the analyzed dataset
+  - type: other
+    value: PRJNA938490
+    description: NCBI BioProject accession
+repository-code: https://github.com/glbala87/NEC-organoid-transcriptomics
+keywords:
+  - necrotizing-enterocolitis
+  - transcriptomics
+  - differential-gene-expression
+  - intestinal-organoids
+  - limma
+  - kegg
+  - gene-ontology
+  - rna-seq
+  - neonatal
+  - preterm-birth
+license: MIT
